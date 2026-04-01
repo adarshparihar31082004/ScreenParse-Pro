@@ -40,11 +40,12 @@ Installation
 1. Clone the repository
 Bash
 git clone https://github.com/adarshparihar31082004/ScreenParse-Pro.git
-cd screenparse-pro
-2. Install dependencies
+
+2. cd screenparse-pro
+3. Install dependencies
 Bash
 pip install -r requirements.txt
-3. Install Tesseract OCR
+4. Install Tesseract OCR
 Windows
 Download from:
 
