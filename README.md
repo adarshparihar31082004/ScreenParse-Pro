@@ -39,7 +39,7 @@ ScreenParse-Pro
 Installation
 1. Clone the repository
 Bash
-git clone https://github.com/yourusername/screenparse-pro.git
+git clone https://github.com/adarshparihar31082004/ScreenParse-Pro.git
 cd screenparse-pro
 2. Install dependencies
 Bash
